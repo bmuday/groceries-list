@@ -6,7 +6,7 @@ import "bootstrap/dist/css/bootstrap.css";
 
 ReactDOM.render(
   <React.StrictMode>
-    <h1>Hello!</h1>
+    <h1>Hello world!</h1>
     <App />
   </React.StrictMode>,
   document.querySelector("#root")
